@@ -1,2 +1,3 @@
-# NTD_AGG
-Neglected Tropical Diseases
+# ENTO_IVM_DCB
+
+Entomology and Vector Control: Integrated Vector Management - Discriminating Concentration Bioassay
