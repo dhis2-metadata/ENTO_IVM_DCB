@@ -1,4 +1,4 @@
-# Neglected Tropical Diseases
+# Entomology and Vector Control: Integrated Vector Management - Discriminating Concentration Bioassay
 
 ## Release Note
 
